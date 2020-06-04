@@ -1,7 +1,5 @@
 import counterModel from './counterModel'
 
-const storeModel = {
+export default {
   counter: counterModel,
 }
-
-export default storeModel
