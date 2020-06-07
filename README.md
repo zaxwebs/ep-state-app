@@ -1,4 +1,4 @@
-# Eeasy-Peasy.js State Managment
+# Easy-Peasy.js State Managment
 An attempt at experimenting with easy-peasy.js for global state management in react.js apps.
 
 ## About this Project
